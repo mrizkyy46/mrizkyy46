@@ -6,10 +6,13 @@
 Hello there, I'm <a href="#" target="" rel="noreferrer">Rizky</a> 👋
 </h3>
 <h2 align="center">
-I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻 and still looking for a better job 🎯
+I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻
 </h2> 
+<h3 align="center">
+Still looking for a better job 🎯
+</h3> 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mrizky019/">
     <img align="left" src="images/icons8-linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>
@@ -17,7 +20,7 @@ I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻 and still looking for a
 <a href="https://instagram.com/mrizkyy46">
     <img align="left" src="images/icons8-instagram.svg" alt="Yu Shi | Instagram" width="21px"/>
 </a>
-</br>
+
 ## 🏢 I'm currently working on
 
 • Brokerage Company as a Software Developer
@@ -51,6 +54,7 @@ I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻 and still looking for a
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 </br>
+
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
