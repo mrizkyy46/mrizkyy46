@@ -1,15 +1,63 @@
-Hello! Everyone.
-I'm a backend developer and tech enthusiast.
-Pleased to meet you. 
+<p align="center">
+  <img src="images/banner.png" alt="my banner">
+</p>
 
-- 👋 Hi, I'm @mrizkyy46
-- 💟 I'm really like everything that discusses about technology
-- 💼 I'm curently working on Brokerage Company as Software Developer
-- 🎯 I'm still looking for a better job
-- 🤝 I'm happy to collaborate with everyone
-- 📫 How to reach me ...
+<h3 align="center">
+Hello there, I'm <a href="#" target="" rel="noreferrer">Rizky</a> 👋
+</h3>
+<h2 align="center">
+I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻 and still looking for a better job 🎯
+</h2> 
 
- ✉ Connect with me:
+### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mrizky019/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/mrizkyy46"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mrizky019/">
+    <img align="left" src="images/icons8-linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>
+</a>
+<a href="https://instagram.com/mrizkyy46">
+    <img align="left" src="images/icons8-instagram.svg" alt="Yu Shi | Instagram" width="21px"/>
+</a>
+
+## 🏢 I'm currently working on
+
+• Brokerage Company as a Software Developer
+
+## 📖 I'm currently learning
+
+• 🔧 Golang
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=007D9C)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=DA0000)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&color=0078D4)
+
+</br>
+
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=31648C)
+![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=0078D4)
+
+</br>
+
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![](https://img.shields.io/badge/Code-Lumen-informational?&style=flat&logo=lumen&logoColor=F4645F)
+
+</br>
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+</br>
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+
+## 📈 GitHub Stats 
+
+[![Rizky's github stats](https://github-readme-stats.vercel.app/api?username=mrizkyy46)](https://github.com/mrizkyy46)
