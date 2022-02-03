@@ -37,7 +37,7 @@ Still looking for a better job 🎯
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=DA0000)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&color=0078D4)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=0078D4)
 
 </br>
 
