@@ -15,11 +15,13 @@ Still looking for a better job 🎯
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mrizky019/">
-    <img align="left" src="images/icons8-linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>
+    <img align="left" src="images/icons8-linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/>
 </a>
 <a href="https://instagram.com/mrizkyy46">
-    <img align="left" src="images/icons8-instagram.svg" alt="Yu Shi | Instagram" width="21px"/>
+    <img align="left" src="images/icons8-instagram.svg" alt="Yu Shi | Instagram" width="24px"/>
 </a>
+
+</br>
 
 ## 🏢 I'm currently working on
 
