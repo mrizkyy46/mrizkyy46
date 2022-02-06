@@ -40,13 +40,13 @@ Still looking for a better job 🎯
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=0078D4)
 
 
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=31648C)
-![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=0078D4)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=31648C)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=0078D4)
 
 
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![](https://img.shields.io/badge/Code-Lumen-informational?&style=flat&logo=lumen&logoColor=F4645F)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![](https://img.shields.io/badge/Framework-Lumen-informational?&style=flat&logo=lumen&logoColor=F4645F)
 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
