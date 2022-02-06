@@ -39,23 +39,19 @@ Still looking for a better job 🎯
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=DA0000)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=0078D4)
 
-</br>
 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=31648C)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=0078D4)
 
-</br>
 
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?&style=flat&logo=lumen&logoColor=F4645F)
 
-</br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-</br>
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
