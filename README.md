@@ -6,7 +6,7 @@
 Hello there, I'm <a href="#" target="" rel="noreferrer">Rizky</a> 👋
 </h3>
 <h2 align="center">
-I'm a Backend Developer 💻 Tech Enthusiast 🧑‍💻
+I'm a Backend Developer 💻 Tech Enthusiast 🧑
 </h2> 
 <h3 align="center">
 Still looking for a better job 🎯
@@ -15,10 +15,10 @@ Still looking for a better job 🎯
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mrizky019/">
-    <img align="left" src="images/icons8-linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/>
+    <img align="left" src="images/icons8-linkedin.svg" alt="" width="24px"/>
 </a>
 <a href="https://instagram.com/mrizkyy46">
-    <img align="left" src="images/icons8-instagram.svg" alt="Yu Shi | Instagram" width="24px"/>
+    <img align="left" src="images/icons8-instagram.svg" alt="" width="24px"/>
 </a>
 
 </br>
