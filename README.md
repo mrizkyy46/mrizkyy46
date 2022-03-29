@@ -12,6 +12,10 @@ I'm a Backend Developer 💻 Tech Enthusiast 🧑
 Still looking for a better job 🎯
 </h3> 
 
+<a href="https://app.daily.dev/mrizkyy46" align="left">
+  <img src="https://api.daily.dev/devcards/5ca6f6e6494244c7832e1fd56e8ccac3.png?r=vso" width="400" alt="Muhamad Rizky's Dev Card"/>
+</a>
+
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mrizky019/">
