@@ -29,7 +29,8 @@ Still looking for a better job 🎯
 
 ## 📖 I'm currently learning
 
-• 🔧 Golang
+• 🦫 Golang
+• ☕ Java Quarkus
 
 ## 💼 Technical Skills
 
