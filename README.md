@@ -45,9 +45,9 @@ Still looking for a better job 🎯
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=0078D4)
 
 
+![](https://img.shields.io/badge/Framework-Quarkus-informational?&style=flat&logo=quarkus&logoColor=F4645F)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Framework-Lumen-informational?&style=flat&logo=lumen&logoColor=F4645F)
-
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
