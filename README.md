@@ -25,11 +25,12 @@ Still looking for a better job 🎯
 
 ## 🏢 I'm currently working on
 
-• Brokerage Company as a Software Developer
+• Financial Company in Central Jakarta
 
 ## 📖 I'm currently learning
 
 • 🦫 Golang
+<br>
 • ☕ Java Quarkus
 
 ## 💼 Technical Skills
